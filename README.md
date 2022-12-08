@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/0DarkMode0/README-Template">
-    <img src="imagens/projeto.png" alt="Logo" width="80" height="80">
+    <img src="imagens/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">IP-LookUp</h3>
