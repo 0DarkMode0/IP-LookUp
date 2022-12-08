@@ -14,7 +14,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/0DarkMode0/README-Template">
+  <a href="https://github.com/0DarkMode0/IP-LookUp">
     <img src="imagens/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,6 +36,8 @@
 <div align="center">
 
 ![Product Name Screen Shot][product-screenshot]
+
+<a href="https://github.com/0DarkMode0/IP-LookUp/releases/download/Dark/IP-Lookup.bat"><strong>[ Download ]</strong></a>
 
 </div>
 
