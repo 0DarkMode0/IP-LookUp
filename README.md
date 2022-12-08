@@ -21,7 +21,7 @@
   <h3 align="center">IP-LookUp</h3>
 
   <p align="center">
-    Um simples IP-LookUp
+    Simples IP-LookUp
     <br />
     <br />
     <a href="https://github.com/0DarkMode0?tab=repositories"><strong>Meus Projetos</strong></a>
