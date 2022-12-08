@@ -59,4 +59,4 @@ Ferramentas:
 [stars-url]: https://github.com/0DarkMode0/0DarkMode0/IP-LookUp
 [license-shield]: https://img.shields.io/github/license/0DarkMode0/IP-LookUp.svg?style=for-the-badge
 [license-url]: https://github.com/0DarkMode0/IP-LookUp/blob/master/LICENSE.txt
-[product-screenshot]: images/projetp.png
+[product-screenshot]: imagens/projetp.png
